@@ -9,6 +9,7 @@ public class Node<E>{
     }
 
     public Node() {
+        System.out.println("halo");
     }
 
     public void addChild(Node child) {
